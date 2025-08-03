@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Salah</h1>
-<h3 align="center">Angular Front-End Develooper From Eygpt</h3>
+<h3 align="center">MEAN Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedsalah2551&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedsalah2551" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **freelance**
 
-- 🌱 I’m currently learning **Dot Net Track**
+- 🌱 I’m currently learning **Docker**
 
 - 👯 I’m looking to collaborate on **full time jop**
 
@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ahmed-salah-8289a6220](https://www.linkedin.com/in/ahmed-salah-8289a6220)
 
-- 💬 Ask me about **Angular**
+- 💬 Ask me about **Mean Stack**
 
 - 📫 How to reach me **ahmedsalah20015510@gmail.com**
 
